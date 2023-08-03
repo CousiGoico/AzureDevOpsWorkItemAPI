@@ -1,0 +1,15 @@
+L:\AzureDevOpsWorkItemAPI\bin\Debug\net7.0\AzureDevOpsWorkItemAPI.exe
+l:\AzureDevOpsWorkItemAPI\bin\Debug\net7.0\AzureDevOpsWorkItemAPI.deps.json
+l:\AzureDevOpsWorkItemAPI\bin\Debug\net7.0\AzureDevOpsWorkItemAPI.runtimeconfig.json
+L:\AzureDevOpsWorkItemAPI\bin\Debug\net7.0\AzureDevOpsWorkItemAPI.dll
+L:\AzureDevOpsWorkItemAPI\bin\Debug\net7.0\AzureDevOpsWorkItemAPI.pdb
+L:\AzureDevOpsWorkItemAPI\obj\Debug\net7.0\AzureDevOpsWorkItemAPI.csproj.AssemblyReference.cache
+L:\AzureDevOpsWorkItemAPI\obj\Debug\net7.0\AzureDevOpsWorkItemAPI.GeneratedMSBuildEditorConfig.editorconfig
+L:\AzureDevOpsWorkItemAPI\obj\Debug\net7.0\AzureDevOpsWorkItemAPI.AssemblyInfoInputs.cache
+L:\AzureDevOpsWorkItemAPI\obj\Debug\net7.0\AzureDevOpsWorkItemAPI.AssemblyInfo.cs
+L:\AzureDevOpsWorkItemAPI\obj\Debug\net7.0\AzureDevOpsWorkItemAPI.csproj.CoreCompileInputs.cache
+L:\AzureDevOpsWorkItemAPI\obj\Debug\net7.0\AzureDevOpsWorkItemAPI.dll
+L:\AzureDevOpsWorkItemAPI\obj\Debug\net7.0\refint\AzureDevOpsWorkItemAPI.dll
+L:\AzureDevOpsWorkItemAPI\obj\Debug\net7.0\AzureDevOpsWorkItemAPI.pdb
+l:\AzureDevOpsWorkItemAPI\obj\Debug\net7.0\AzureDevOpsWorkItemAPI.genruntimeconfig.cache
+l:\AzureDevOpsWorkItemAPI\obj\Debug\net7.0\ref\AzureDevOpsWorkItemAPI.dll
